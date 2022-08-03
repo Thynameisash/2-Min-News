@@ -2,7 +2,6 @@ import React, { useContext } from "react";
 import { StyleSheet, Text, TouchableOpacity, View } from "react-native";
 import { AntDesign } from "@expo/vector-icons";
 import { SimpleLineIcons } from "@expo/vector-icons";
-import { Feather } from "@expo/vector-icons";
 import { NewsContext } from "../API/Context";
 import { MaterialCommunityIcons } from "@expo/vector-icons";
 
