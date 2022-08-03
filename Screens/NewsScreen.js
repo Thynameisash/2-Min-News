@@ -20,7 +20,6 @@ const NewsScreen = () => {
 
   const windowHeight = Dimensions.get("window").height;
 
-  // console.log(articles && articles[9]);
 
   return (
     <View style={styles.carousel}>
